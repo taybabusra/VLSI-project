@@ -9,6 +9,6 @@
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/aeaec426-a176-4781-9f06-f82fa96ab785" />\
 DC response of inverter for different width of PMOS\
 <img width="443" alt="image" src="https://github.com/user-attachments/assets/fcb0d210-b22d-459d-84a5-da98a9c28e3f" />\
-
-
+DC response of inverter for different width of NMOS\
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/ebdd35f5-975a-4445-91dd-e6a0bdea4b65" />
 
