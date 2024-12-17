@@ -7,7 +7,8 @@
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/7f0d877d-722b-4a65-99c1-07bd30f33fb8" />\
 \
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/aeaec426-a176-4781-9f06-f82fa96ab785" />\
-DC response of inverter for different width of PMOS<img width="443" alt="image" src="https://github.com/user-attachments/assets/fcb0d210-b22d-459d-84a5-da98a9c28e3f" />\
+DC response of inverter for different width of PMOS\
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/fcb0d210-b22d-459d-84a5-da98a9c28e3f" />\
 
 
 
